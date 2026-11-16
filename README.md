@@ -30,5 +30,5 @@ Conecto plataformas de telefonia e WhatsApp a CRMs, helpdesks, sistemas de gover
 **Contato**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://welisy.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-diogo-do-vale-00868128b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-diogo-do-vale)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleydiogodovale50@gmail.com)
